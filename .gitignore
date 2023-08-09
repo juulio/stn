@@ -1,0 +1,17 @@
+# Node Modules
+node_modules
+
+# Junk Files
+*.DS_Store
+[Tt]humbs.db
+
+# Sass Cache files
+**/.sass-cache
+**/.sass-cache/*
+
+# CNAME on the production folder
+#docs/CNAME
+
+# Visual Studio code folder with settings.json file
+.vscode
+
